@@ -1,7 +1,6 @@
 <div align=center>
 
 #### 차세대 의료보고서 자동작성 서비스
-![image](https://github.com/9eun/docdoc/assets/113655865/a772d025-42f4-4f96-8c92-c5ca5b3a3873)
 
 </div><br/><br/>
 
