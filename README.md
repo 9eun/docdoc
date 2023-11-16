@@ -12,6 +12,9 @@
 ## 🕑 작업기간
 2023.06.02 ~ 2023.07.10
 
+## 🎈서비스 플로우
+![image](https://github.com/9eun/docdoc/assets/113655865/b3a84f6f-7161-46f5-89c1-568148919115)
+
 ## 🛠기술 스택
 ![image](https://github.com/9eun/docdoc/assets/113655865/b893f901-fa9c-4598-bd0e-b99f55dad11f)
 
